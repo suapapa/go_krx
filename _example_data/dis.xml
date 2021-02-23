@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<disclosureMain querytime="2021-02-23 20:52:22" >
+ <disInfo distime="20210223" disAcpt_no="20210223000213" disTitle="추가상장(국내CB전환)" submitOblgNm="유가증권시장본부"/>
+ <disInfo distime="20210219" disAcpt_no="20210219000160" disTitle="주식등의대량보유상황보고서(약식)" submitOblgNm="BlackRock Fund Advisors"/>
+ <disInfo distime="20210218" disAcpt_no="20210218000554" disTitle="유상증자결정(종속회사의 주요경영사항)" submitOblgNm="카카오"/>
+ <disInfo distime="20210209" disAcpt_no="20210209000921" disTitle="기업설명회(IR) 개최(안내공시)" submitOblgNm="카카오"/>
+ <disInfo distime="20210209" disAcpt_no="20210209000024" disTitle="매출액또는손익구조30%(대규모법인은15%)이상변경" submitOblgNm="카카오"/>
+ <disInfo distime="20210209" disAcpt_no="20210209000021" disTitle="연결재무제표기준영업(잠정)실적(공정공시)" submitOblgNm="카카오"/>
+ <disInfo distime="20210209" disAcpt_no="20210209000020" disTitle="영업(잠정)실적(공정공시)" submitOblgNm="카카오"/>
+ <disInfo distime="20210208" disAcpt_no="20210208000332" disTitle="추가상장(국내CB전환 및 스톡옵션행사)" submitOblgNm="유가증권시장본부"/>
+ <disInfo distime="20210208" disAcpt_no="20210208000153" disTitle="자기주식 처분 결정" submitOblgNm="카카오"/>
+ <disInfo distime="20210126" disAcpt_no="20210126000091" disTitle="추가상장(국내CB전환)" submitOblgNm="유가증권시장본부"/>
+</disclosureMain>
